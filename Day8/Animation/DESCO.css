@@ -1,0 +1,31 @@
+body{
+    margin:20px;
+    height:100vh;
+    background-color: rgb;
+    display: flex;
+    align-items: center;
+    animation: index 1s linear 2s infinite normal;
+}
+h1{
+    background-color: beige;
+
+}
+@keyframes index {
+    0%{
+        background-color: blue;
+    
+    }
+    15%{
+        background-color: blanchedalmond;
+    }
+    30%{
+        background-color: green;
+    }
+    40%{
+        background-color: aqua;
+    }
+    70%{
+        background-color: blueviolet;
+    }
+    
+}

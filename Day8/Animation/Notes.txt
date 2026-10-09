@@ -1,0 +1,4 @@
+Position
+
+static - default position() 
+relative - element is relative to itself
